@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086845337887",
+    "project_id": "hip-fusion-133123"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086845337887:android:06ac931f1a428764",
+        "android_client_info": {
+          "package_name": "com.corvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086845337887-r5dg9e1hok9oehchhi2359ttrorf1etu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.corvi",
+            "certificate_hash": "370993610C7D0D7C58F9C1EAE3C3D2CD05039A03"
+          }
+        },
+        {
+          "client_id": "1086845337887-1jjlbqfbd3aut1l52qo0ct5vpevnic37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmH4NoU0xk4gxjPlkWRPHmKudDwJeuhdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
